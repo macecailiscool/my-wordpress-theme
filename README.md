@@ -1,0 +1,2 @@
+# my-wordpress-theme
+yes
